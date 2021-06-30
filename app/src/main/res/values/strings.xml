@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WeatherAppDemo</string>
+    <string name="list_menu">Home</string>
+    <string name="favorite_menu">Favorite</string>
+</resources>
